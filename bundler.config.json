@@ -1,0 +1,9 @@
+{
+    "rootModules": [
+        {
+            "name": "src"
+        }
+    ],
+    "babelConfigFile": "./babel.config.json",
+    "entry": "src/index.js"
+}
